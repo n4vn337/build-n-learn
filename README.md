@@ -7,3 +7,6 @@ scroll through all my small still pretty cool projects
 
 ## Glassmorphic singup page
 ![image](https://github.com/n4vn337/build-n-learn/assets/59524376/7370a723-be5e-44a0-93a4-e2ba6b346e0c)
+
+## Modal
+![image](https://github.com/n4vn337/build-n-learn/assets/59524376/fce9de9b-f838-4727-a52c-80ea243841a0)
