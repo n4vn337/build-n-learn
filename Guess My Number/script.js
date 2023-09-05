@@ -17,7 +17,7 @@ let score = 20;
 let highScore = 0;
 
 const displayMessage = function (message) {
-    document.querySelector('.message').textContent = messsage;
+    document.querySelector('.message').textContent = message;
 }
 
 document.querySelector('.check').addEventListener('click', function () {
@@ -82,7 +82,7 @@ document.querySelector('.again').addEventListener('click', function () {
     displayMessage('Start guessing...');
     document.querySelector('.score').textContent = score;
     document.querySelector('.number').textContent = '?';
-    document.querySelector('.guess').textContent = '';
+    document.querySelector('.guess').value = '';
     document.querySelector('body').style.backgroundColor = '#222';
     document.querySelector('.number').style.width = '15rem';
 })
